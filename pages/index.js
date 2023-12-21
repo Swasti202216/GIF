@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import GifGallery from '../components/GifGallery';
 import firebase from '../firebase';
-import styles from '../styles/home.module.css';
+import styles from '../styles/Home.module.css';
 
 
 const Home = () => {
